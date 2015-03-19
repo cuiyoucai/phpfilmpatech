@@ -61,6 +61,6 @@ foreach ($types as $key=>$vl){
 			insertFilmDB(getDetail($fid),'f');
 			insertFilmDB(getComment($fid),'c');
 			insertFilmDB(getReview($fid),'r');
-		}
+		}  //省钱省的好
 	}
 }
