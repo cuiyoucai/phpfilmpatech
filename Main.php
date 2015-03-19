@@ -40,7 +40,7 @@ $types = array(
 'cult',
 '震撼',
 );
-$blackFilm = array("1788392");   //信息异常电影过滤111111
+$blackFilm = array("1788392");   //信息异常电影过滤你大爷
 foreach ($types as $key=>$vl){
 //	if($vl!='史诗'){
 //		continue;
