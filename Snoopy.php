@@ -1,7 +1,7 @@
 <?php
 
 /*************************************************
-
+add a new message
 Snoopy - the PHP net client
 Author: Monte Ohrt <monte@ispi.net>
 Copyright (c): 1999-2008 New Digital Group, all rights reserved

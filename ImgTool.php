@@ -1,5 +1,6 @@
 <?php
 /**
+ * add a new
  * 图片存库
  * @param 图片的地址 $url
  * @param 图片名称 $filename
